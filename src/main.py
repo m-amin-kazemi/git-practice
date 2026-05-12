@@ -7,3 +7,4 @@ a = 5
 b = 3
 result = add(a, b)
 print(f"The result of adding {a} and {b} is: {result}")
+print("This program demonstrates how to use a function from another module.")
