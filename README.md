@@ -1,6 +1,6 @@
 # Title
 
-## Subtitle
+## Subtitle 1
 This is a paragraph.
 This is another paragraph. 
 This is a list:
@@ -13,4 +13,11 @@ To  run the tests, run the following command:
 '''
 $ pytest
 '''
-Hello world
+
+## How to test
+To  run the tests, run the following command:
+'''
+$ pytest
+'''
+
+# subtitle 2y
