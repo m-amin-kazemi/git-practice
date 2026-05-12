@@ -8,3 +8,6 @@ b = 3
 result = add(a, b)
 print(f"The result of adding {a} and {b} is: {result}")
 print("This program demonstrates how to use a function from another module.")
+print("Thank you for using this program!")
+print("Goodbye!")
+print("This is the end of the program.")
