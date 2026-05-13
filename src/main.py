@@ -1,7 +1,3 @@
-print("Hello, World!")
-
-print("This is a simple Python program that greets the user by name.")
-
 from utils import add
 a = 5
 b = 3
