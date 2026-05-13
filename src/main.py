@@ -10,10 +10,7 @@ print("This is the end of the program.")
 
 print("This program is now complete.")
 def main():
-    a = 10
-    b = 20
-    result = add(a, b)
-    print(f"The result of adding {a} and {b} is: {result}")
+    print("Welcome to the main function!")
 
 if __name__ == "__main__":
     main()
