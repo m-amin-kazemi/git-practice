@@ -7,8 +7,9 @@ print("This program demonstrates how to use a function from another module.")
 print("Thank you for using this program!")
 print("Goodbye!")
 print("This is the end of the program.")
-
 print("This program is now complete.")
+print("this message is how git rebasing works")
+
 def main():
     print("Welcome to the main function!")
 
